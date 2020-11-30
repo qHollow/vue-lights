@@ -1,0 +1,25 @@
+.circle {
+  display: block;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+
+.red {
+  background-color: red;
+  opacity: 0.2;
+}
+
+.yellow {
+  background-color: yellow;
+  opacity: 0.2;
+}
+
+.green {
+  background-color: rgb(3, 184, 3);
+  opacity: 0.2;
+}
+
+.active {
+  opacity: 1;
+}
